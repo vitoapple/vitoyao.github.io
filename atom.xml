@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Blog]]></title>
   <link href="http://vitoapple.github.io/atom.xml" rel="self"/>
   <link href="http://vitoapple.github.io/"/>
-  <updated>2014-01-13T07:31:58+08:00</updated>
+  <updated>2014-01-13T19:06:59+08:00</updated>
   <id>http://vitoapple.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Vitoapple]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hi]]></title>
+    <link href="http://vitoapple.github.io/blog/2014/01/13/hi/"/>
+    <updated>2014-01-13T00:00:00+08:00</updated>
+    <id>http://vitoapple.github.io/blog/2014/01/13/hi</id>
+    <content type="html"><![CDATA[<p>hello,it works&mdash;
+layout: post
+title: &ldquo;Hi&rdquo;
+date: 2014-01-13 19:00:21 +0800
+comments: true</p>
+
+<h2>categories: first try</h2>
+
+<p>May this is the main point</p>
+]]></content>
+  </entry>
   
 </feed>
